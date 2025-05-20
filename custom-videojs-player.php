@@ -56,5 +56,3 @@ webm">
     return ob_get_clean();
 }
 add_shortcode('custom_videojs_player', 'cvjp_video_shortcode');
-
- Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!
